@@ -1,0 +1,361 @@
+[{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2877"
+  },
+  "order_id": "O001",
+  "customer_id": "C001",
+  "product_id": "P001",
+  "product_name": "Laptop",
+  "quantity": 2,
+  "price": 1200,
+  "order_date": "2024-01-15"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2878"
+  },
+  "order_id": "O002",
+  "customer_id": "C002",
+  "product_id": "P002",
+  "product_name": "Smartphone",
+  "quantity": 1,
+  "price": 800,
+  "order_date": "2024-01-20"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2879"
+  },
+  "order_id": "O003",
+  "customer_id": "C003",
+  "product_id": "P003",
+  "product_name": "Headphones",
+  "quantity": 4,
+  "price": 50,
+  "order_date": "2024-02-01"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b287a"
+  },
+  "order_id": "O004",
+  "customer_id": "C001",
+  "product_id": "P004",
+  "product_name": "Keyboard",
+  "quantity": 3,
+  "price": 30,
+  "order_date": "2024-02-10"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b287b"
+  },
+  "order_id": "O005",
+  "customer_id": "C004",
+  "product_id": "P005",
+  "product_name": "Mouse",
+  "quantity": 5,
+  "price": 20,
+  "order_date": "2024-03-05"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b287c"
+  },
+  "order_id": "O006",
+  "customer_id": "C005",
+  "product_id": "P006",
+  "product_name": "Monitor",
+  "quantity": 2,
+  "price": 200,
+  "order_date": "2024-03-15"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b287d"
+  },
+  "order_id": "O007",
+  "customer_id": "C001",
+  "product_id": "P001",
+  "product_name": "Laptop",
+  "quantity": 1,
+  "price": 1200,
+  "order_date": "2024-04-01"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b287e"
+  },
+  "order_id": "O008",
+  "customer_id": "C002",
+  "product_id": "P002",
+  "product_name": "Smartphone",
+  "quantity": 2,
+  "price": 800,
+  "order_date": "2024-04-12"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b287f"
+  },
+  "order_id": "O009",
+  "customer_id": "C003",
+  "product_id": "P003",
+  "product_name": "Headphones",
+  "quantity": 1,
+  "price": 50,
+  "order_date": "2024-05-07"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2880"
+  },
+  "order_id": "O010",
+  "customer_id": "C004",
+  "product_id": "P007",
+  "product_name": "Printer",
+  "quantity": 1,
+  "price": 150,
+  "order_date": "2024-05-20"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2881"
+  },
+  "order_id": "O011",
+  "customer_id": "C005",
+  "product_id": "P006",
+  "product_name": "Monitor",
+  "quantity": 1,
+  "price": 200,
+  "order_date": "2024-06-01"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2882"
+  },
+  "order_id": "O012",
+  "customer_id": "C006",
+  "product_id": "P008",
+  "product_name": "Desk Lamp",
+  "quantity": 3,
+  "price": 40,
+  "order_date": "2024-06-15"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2883"
+  },
+  "order_id": "O013",
+  "customer_id": "C007",
+  "product_id": "P009",
+  "product_name": "Router",
+  "quantity": 2,
+  "price": 100,
+  "order_date": "2024-07-03"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2884"
+  },
+  "order_id": "O014",
+  "customer_id": "C008",
+  "product_id": "P010",
+  "product_name": "External HDD",
+  "quantity": 3,
+  "price": 70,
+  "order_date": "2024-07-25"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2885"
+  },
+  "order_id": "O015",
+  "customer_id": "C009",
+  "product_id": "P011",
+  "product_name": "USB Cable",
+  "quantity": 5,
+  "price": 10,
+  "order_date": "2024-08-08"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2886"
+  },
+  "order_id": "O016",
+  "customer_id": "C010",
+  "product_id": "P012",
+  "product_name": "Webcam",
+  "quantity": 1,
+  "price": 90,
+  "order_date": "2024-08-18"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2887"
+  },
+  "order_id": "O017",
+  "customer_id": "C011",
+  "product_id": "P013",
+  "product_name": "Power Bank",
+  "quantity": 3,
+  "price": 25,
+  "order_date": "2024-09-01"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2888"
+  },
+  "order_id": "O018",
+  "customer_id": "C012",
+  "product_id": "P014",
+  "product_name": "Speakers",
+  "quantity": 2,
+  "price": 45,
+  "order_date": "2024-09-10"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2889"
+  },
+  "order_id": "O019",
+  "customer_id": "C013",
+  "product_id": "P015",
+  "product_name": "Camera",
+  "quantity": 1,
+  "price": 500,
+  "order_date": "2024-10-05"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b288a"
+  },
+  "order_id": "O020",
+  "customer_id": "C014",
+  "product_id": "P016",
+  "product_name": "Tripod",
+  "quantity": 1,
+  "price": 70,
+  "order_date": "2024-10-25"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b288b"
+  },
+  "order_id": "O021",
+  "customer_id": "C015",
+  "product_id": "P001",
+  "product_name": "Laptop",
+  "quantity": 1,
+  "price": 1200,
+  "order_date": "2024-11-01"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b288c"
+  },
+  "order_id": "O022",
+  "customer_id": "C016",
+  "product_id": "P002",
+  "product_name": "Smartphone",
+  "quantity": 2,
+  "price": 800,
+  "order_date": "2024-11-18"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b288d"
+  },
+  "order_id": "O023",
+  "customer_id": "C017",
+  "product_id": "P017",
+  "product_name": "Tablet",
+  "quantity": 1,
+  "price": 600,
+  "order_date": "2024-12-05"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b288e"
+  },
+  "order_id": "O024",
+  "customer_id": "C018",
+  "product_id": "P018",
+  "product_name": "Gaming Console",
+  "quantity": 1,
+  "price": 400,
+  "order_date": "2024-12-20"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b288f"
+  },
+  "order_id": "O025",
+  "customer_id": "C019",
+  "product_id": "P019",
+  "product_name": "Drone",
+  "quantity": 1,
+  "price": 800,
+  "order_date": "2024-12-28"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2890"
+  },
+  "order_id": "O026",
+  "customer_id": "C020",
+  "product_id": "P001",
+  "product_name": "Laptop",
+  "quantity": 1,
+  "price": 1200,
+  "order_date": "2024-01-02"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2891"
+  },
+  "order_id": "O027",
+  "customer_id": "C001",
+  "product_id": "P002",
+  "product_name": "Smartphone",
+  "quantity": 1,
+  "price": 800,
+  "order_date": "2024-02-14"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2892"
+  },
+  "order_id": "O028",
+  "customer_id": "C002",
+  "product_id": "P003",
+  "product_name": "Headphones",
+  "quantity": 3,
+  "price": 50,
+  "order_date": "2024-03-22"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2893"
+  },
+  "order_id": "O029",
+  "customer_id": "C003",
+  "product_id": "P005",
+  "product_name": "Mouse",
+  "quantity": 2,
+  "price": 20,
+  "order_date": "2024-04-30"
+},
+{
+  "_id": {
+    "$oid": "676531bbc5f7302ab44b2894"
+  },
+  "order_id": "O030",
+  "customer_id": "C004",
+  "product_id": "P004",
+  "product_name": "Keyboard",
+  "quantity": 4,
+  "price": 30,
+  "order_date": "2024-05-15"
+}
+]
